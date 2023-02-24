@@ -1,8 +1,3 @@
-<!-- ### Hi there 👋
-- 📫 How to reach me: omarsaadeh11@gmail.com
-- 👨‍🚀 My Site : https://omarwork-com.onrender.com
-- ⭐ My Latest Blog Posts: https://omarsaade.hashnode.dev/ -->
-
 <div id="top"></div>
 
 <!-- NOTE HEAD SECTION -->
@@ -74,23 +69,6 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 
 Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together.
 
-<br />
-<br />
-<br />
-
-<div align="center">
-  <h3>Lunch Break</h3>
-  <div>
-    <a href="https://snap-omarsaade.onrender.com" target='_blank'>View Site</a> • 
-    <a href="https://github.com/omarsaade/Snap-App" target='_blank'>GitHub</a>
-  </div>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/Screenshot(173).png" alt="LunchBreak app cover" width="720" align="center">
-</div>
 
 <br/>
 <br/>
