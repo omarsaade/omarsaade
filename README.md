@@ -48,7 +48,7 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <br/>
 
 <div align="center">
-  <img src="assets/readme/app-lunch-break-cover.png" alt="LunchBreak app cover" width="720" align="center">
+  <img src="assets/readme/Screenshot(173).png" alt="LunchBreak app cover" width="720" align="center">
 </div>
 
 <br/>
