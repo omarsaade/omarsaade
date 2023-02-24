@@ -23,7 +23,7 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 <br/>
 
 <div align="center">
-  <img src="Screenshot(173).png" alt="Snap App cover" width="720" align="center">
+  <img src="./Screenshot(173).png" alt="Snap App cover" width="720" align="center">
 </div>
 
 <br/>
@@ -60,19 +60,4 @@ A blog site focus on work-life balance. Its content is around three topics: desi
 
 <br />
 
-### Open-source projects
 
-<div>
-  <ul>
-    <li>
-      <div><strong>Frontend Interview Handbook</strong> Role: contributor <a href="https://github.com/yangshun/front-end-interview-handbook" target="_blank">GitHub</a></div>
-    </li>
-    <li>
-      <div><strong>Start Here Guidelines</strong> Role: contributor <a href="https://github.com/zero-to-mastery/start-here-guidelines" target="_blank">GitHub</a></div>
-    </li>
-  </ul>
-</div>
-
-<br />
-
-<!-- ----------------------------------------- -->
