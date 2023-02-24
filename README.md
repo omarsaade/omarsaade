@@ -23,7 +23,7 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 <br/>
 
 <div align="center">
-  <img src="./Screenshot(173).png" alt="Snap App cover" width="720" align="center">
+  <img src=""assets/Screenshot(173).png"" alt="Snap App cover" width="720" align="center">
 </div>
 
 <br/>
@@ -48,7 +48,7 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <br/>
 
 <div align="center">
-  <img src="assets/readme/Screenshot(173).png" alt="LunchBreak app cover" width="720" align="center">
+  <img src="assets/Screenshot(173).png" alt="LunchBreak app cover" width="720" align="center">
 </div>
 
 <br/>
