@@ -40,8 +40,8 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <div align="center">
   <h3>Lunch Break</h3>
   <div>
-    <a href="" target='_blank'>View Site</a> • 
-    <a href="" target='_blank'>GitHub</a>
+    <a href="https://snap-omarsaade.onrender.com" target='_blank'>View Site</a> • 
+    <a href="https://github.com/omarsaade/Snap-App" target='_blank'>GitHub</a>
   </div>
 </div>
 
