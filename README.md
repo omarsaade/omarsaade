@@ -21,7 +21,7 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 <br/>
 
 <div align="center">
-  <img src="https://github.com/omarsaade/omarsaade/blob/main/assets/Screenshot%20(170).png" alt="Snap App cover" width="720" align="center">
+  <img src="https://github.com/omarsaade/omarsaade/blob/main/assets/pp.jpg?raw=true" alt="Snap App cover" width="720" align="center">
 </div>
 
 <br/>
