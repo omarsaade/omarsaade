@@ -23,7 +23,7 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 <br/>
 
 <div align="center">
-  <img src="assets/readme/app-snap-cover.png" alt="Snap App cover" width="720" align="center">
+  <img src="Screenshot(173).png" alt="Snap App cover" width="720" align="center">
 </div>
 
 <br/>
