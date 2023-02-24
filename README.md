@@ -24,6 +24,8 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
   <img src="https://github.com/omarsaade/omarsaade/blob/main/assets/pp.jpg?raw=true" alt="Snap App cover" width="720" align="center">
 </div>
 
+[![React][react-shield]][react-url] [![Node][node-shield]][node-url] [![Express][express-shield]][express-url] [![Axios][axios-shield]][axios-url] [![Mongoose][mongoose-shield]][mongoose-url]
+
 <br/>
 <br/>
 
