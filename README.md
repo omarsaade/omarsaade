@@ -30,7 +30,7 @@ In my spare time, I enjoy doing some freelancing work. My goal is to use technol
 <br />
 
 <div>
-  <a href="https://github.com/omarsaade" target='_blank'><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="site logo" width="" height="35"/></a>
+  <a href="https://github.com/omarsaade" target='_blank'><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="site logo" width="" height="40"/></a>
   <a href="https://www.instagram.com/omar_saade/?hl=en" target='_blank'><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="site logo" width="" height="30"/></a>
   <a href="https://www.linkedin.com/in/omar-saade-620406122/" target='_blank'><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROxtIfvuDgpg1huNego6j258JAACUA8syxc3iWmkE&s" alt="site logo" width="" height="30"/></a> 
 </div>
