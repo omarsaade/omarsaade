@@ -15,8 +15,8 @@ I picked two projects as an indication of my full-stack develop skills. Also, ap
 <div align="center">
   <h3>Snap App</h3>
   <div>
-    <a href="https://howiework.github.io/snap-app/" target='_blank'>View Site</a> • 
-    <a href="https://github.com/HowieWork/snap-app" target='_blank'>GitHub</a>
+    <a href="" target='_blank'>View Site</a> • 
+    <a href="" target='_blank'>GitHub</a>
   </div>
 </div>
 
@@ -40,8 +40,8 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <div align="center">
   <h3>Lunch Break</h3>
   <div>
-    <a href="https://lunch-break.vercel.app/" target='_blank'>View Site</a> • 
-    <a href="https://github.com/HowieWork/lunch-break/" target='_blank'>GitHub</a>
+    <a href="" target='_blank'>View Site</a> • 
+    <a href="" target='_blank'>GitHub</a>
   </div>
 </div>
 
@@ -54,9 +54,9 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <br/>
 <br/>
 
-[![Next][next-shield]][next-url] [![React][react-shield]][react-url] [![Mongodb][mongodb-shield]][mongodb-url]
 
-A blog site focus on work-life balance. Its content is around three topics: design, psychology and community. Built with Next.js. [Watch a video](https://youtu.be/jIDyerwpAXw) for details.
+
+A blog site focus on work-life balance. Its content is around three topics: design, psychology and community. Built with Next.js. 
 
 <br />
 
