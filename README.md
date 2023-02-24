@@ -54,8 +54,6 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <br/>
 <br/>
 
-
-
 A blog site focus on work-life balance. Its content is around three topics: design, psychology and community. Built with Next.js. 
 
 <br />
