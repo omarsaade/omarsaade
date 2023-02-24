@@ -1,8 +1,49 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 - 📫 How to reach me: omarsaadeh11@gmail.com
 - 👨‍🚀 My Site : https://omarwork-com.onrender.com
-- ⭐ My Latest Blog Posts: https://omarsaade.hashnode.dev/
+- ⭐ My Latest Blog Posts: https://omarsaade.hashnode.dev/ -->
 
+<div id="top"></div>
+
+<!-- NOTE HEAD SECTION -->
+<div align="center">
+  <a href="https://omarwork-com.onrender.com/" target='_blank'>
+    <img src="https://github.com/omarsaade/omarsaade/blob/main/logo.73fe7a7a.png?raw=true" alt="site logo" width="" height="72"/>
+  </a>
+  <div>
+    <a href="https://omarwork-com.onrender.com/" target='_blank'>View Site</a> • 
+    <a href="https://github.com/omarsaade/omarwork" target='_blank'>GitHub</a>
+  </div>
+</div>
+
+<br />
+
+<!-- NOTE INTRO SECTION -->
+
+## Welcome!
+
+Hi, my name is Omar. I’m a software developer. My current focus is to progress into a software engineer.
+
+In my spare time, I enjoy doing some freelancing work. My goal is to use technology to help clients articulate what’s in their mind to better express themselves.
+
+
+<br />
+
+<div>
+  <a href="https://github.com/omarsaade" target='_blank'><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="site logo" width="" height="30"/></a>
+  <a href="https://www.instagram.com/omar_saade/?hl=en" target='_blank'><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAAXVBMVEX///8AAADl5eXs7OzV1dX19fWkpKSysrKWlpb4+PhlZWW/v7+Ghobe3t55eXlYWFgwMDAZGRkMDAysrKw/Pz8TExPLy8t/f39vb2+MjIycnJweHh64uLgkJCRSUlKPOlVVAAADC0lEQVRogc2abZuqIBCGIQ1f0rTWytr2/P+fufkyAwgKC851nedTkN7BwMAwxJihYyqqpr1wb13aphLp0SQZOpVXf6yqa3naJhevMDDoVayzv+LQg75W0Icuns15d7Cx33ugB71NttiLzblYsqv92JxXW+2+VVlaH7xVp1l1W2+7Zu+qXp9P66q1vit2PyjV5yQEPSg5Kxg5Z+QcvN5D0YPu0rk7qJO+0wY3e1LSImr2pkKyN7zXT4WkTyxcT66R7R6UoGVeYxl/K9jeB/HM4eU74obSCedJKLsfX/9JpxLOmWEFLqEQapR/AJjoCRTLz74DRqocjDXlaIfLVAHedD2yFL4K8kumDNlkiI+vyp7AqnILZNcKfO48rDMCOxFqlbsC76cqiWzmT5kDUqRZ/uj7R56lmqslCjyfqrK52DBwqXSLnIhGYfBGKDPrR9bPDBjGlkF8sjGedckNlfg8+smnpfPzc/mCg23dV8dWW9AjHloPc7GFsAhXcCd8I9yAMOI9To8zDoUvvFhp9tx44NV3dV3yhB8doUxnDRD94MfvbTbn3za6F7zQ292dcyHy86LSsr94wVV7t3JqJ6JVvijD4Mo8uS1CtLcSppihpwdc8evS6Ls6i4x9wAMuX3+aPWfsuW4YN7zeZqv05crhhmPDLSPmeMIJR4vfVmOZAkd1YXUnHMNeSygPwvB1EZA74bB+t+tshntBo1e74BjiGacEa/d007ngGBNsBjM4MPo25oLDNtixTcE6o2/ALjjsLo4QD0K3/E/wh/UtQ9CGx5/gvc94yhHt/x84qVlIB5R0KpI6Ean7ky5ctEsu6WZBus3RbtCkoQVtUEQaztEGorQhNGnwT3ts8T5whcG9jorhcPchdwMefTy3PD8/c4lPLJiSiYXYlIhFMiUSm8yxSCJj01AWyTRUdALNkJJAi079GVJSf/FJy4XUpOUO6VZdWrp1h0SxKj1RTJviJk3Ok14r0F6I0F7lkF5C0V6f0V780V5Z0l620l4TM9ILbkZ7NT+I7k8Fo/b7O8QvX9ooCjoKQcoAAAAASUVORK5CYII=" alt="site logo" width="" height="30"/></a>
+  <a href="https://www.linkedin.com/in/omar-saade-620406122/" target='_blank'><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROxtIfvuDgpg1huNego6j258JAACUA8syxc3iWmkE&s" alt="site logo" width="" height="30"/></a> 
+</div>
+
+<br />
+
+### Built with
+
+[![React][react-shield]][react-url] [![react-dom][react-dom-shield]][react-dom-url] [![react-markdown][react-markdown-shield]][react-markdown-url]
+
+<br/>
+
+<!-- NOTE SELECTED PROJECTS SECTION -->
 
 ## Selected Projects
 
