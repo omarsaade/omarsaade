@@ -17,7 +17,7 @@
 
 ## Welcome!
 
-Hi, my name is Omar. I’m a software developer. I’m currently learning Reactnative
+Hi, my name is Omar. I’m a software developer. Currently learning React Native through Maximilian Schwarzmüller course.
 
 I am constantly learning and staying up-to-date with the latest developments in the field, and I bring this expertise and drive to every project I work on. Whether working independently or as part of a team, I consistently strive to deliver the best possible outcome.
 
