@@ -18,6 +18,7 @@
 ## Welcome!
 
 Hi, my name is Omar. I’m a software developer. Currently learning React Native.
+As a software developer, I have a passion for creating innovative solutions using cutting-edge technology.
 
 I am constantly learning and staying up-to-date with the latest developments in the field, and I bring this expertise and drive to every project I work on. Whether working independently or as part of a team, I consistently strive to deliver the best possible outcome.
 
