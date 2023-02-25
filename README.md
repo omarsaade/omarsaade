@@ -18,7 +18,7 @@
 ## Welcome!
 
 Hi, my name is Omar. I’m a software developer. My current focus is to progress into a software engineer.
-
+I am constantly learning and staying up-to-date with the latest developments in the field, and I bring this expertise and drive to every project I work on. Whether working independently or as part of a team, I consistently strive to deliver the best possible outcome.
 In my spare time, I enjoy doing some freelancing work. My goal is to use technology to help clients articulate what’s in their mind to better express themselves.
 
 
