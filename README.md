@@ -47,7 +47,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 
 ## Selected Projects
 
-I picked two projects as an indication of my full-stack develop skills. Also, apply newly learned knowledge to something I feel excited about always motivates me to keep going.
+I picked this project as an indication of my full-stack develop skills. Also, apply newly learned knowledge to something I feel excited about always motivates me to keep going.
 
 <br/>
 
