@@ -54,7 +54,7 @@ I picked this project as an indication of my full-stack develop skills. Also, ap
 <div align="center">
   <h3>Snap App</h3>
   <div>
-    <a href="https://snap-omarsaade.onrender.com/" target='_blank'>View Site</a> • 
+    <a href="https://omarsaade.github.io/snap-app/" target='_blank'>View Site</a> • 
     <a href="https://github.com/omarsaade/Snap-App" target='_blank'>GitHub</a>
   </div>
 </div>
