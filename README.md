@@ -10,9 +10,7 @@
     <a href="https://github.com/omarsaade/omarwork" target='_blank'>GitHub</a>
   </div>
 </div>
-
-
-
+</br>
 **Sidenote**:
 It is worth noting I completely redesign and rebuild my portfolio website using React
 </br>
