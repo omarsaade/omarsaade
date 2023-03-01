@@ -46,7 +46,7 @@ In my spare time, I enjoy doing some freelancing work. My goal is to use technol
 
 ## Selected Projects
 
-I picked this project as an indication of my full-stack develop skills. Also, apply newly learned knowledge to something I feel excited about always motivates me to keep going.
+I picked one of my projects as an indication of my full-stack develop skills. Also, apply newly learned knowledge to something I feel excited about always motivates me to keep going.
 
 <br/>
 
