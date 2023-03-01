@@ -20,6 +20,7 @@ It is worth noting I completely redesign and rebuild my portfolio website using 
 
 <!-- NOTE INTRO SECTION -->
 <br />
+
 ## Welcome!
 
 Hi, my name is Omar. I’m a software developer. Currently learning React Native.
