@@ -11,7 +11,7 @@
   </div>
 </div>
 </br>
-</br>
+
 
 **Sidenote**:
 It is worth noting I completely redesign and rebuild my portfolio website using React
