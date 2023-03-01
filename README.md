@@ -10,7 +10,7 @@
     <a href="https://github.com/omarsaade/omarwork" target='_blank'>GitHub</a>
   </div>
 </div>
-</br>
+
 
 
 **Sidenote**:
