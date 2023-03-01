@@ -73,11 +73,3 @@ I picked this project as an indication of my full-stack develop skills. Also, ap
 
 
 Snap App focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together.
-
-
-<br/>
-<br/>
-
-<br />
-
-
