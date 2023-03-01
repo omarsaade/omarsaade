@@ -78,8 +78,6 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <br/>
 <br/>
 
-Working on it......
-
 <br />
 
 
