@@ -90,6 +90,7 @@ Snap App focus on creating a photo sharing platform for people who love architec
 </div>
 <br/>
 <br/>
+
   <div>
     <span style="color: white; background-color:#5A5A5A; padding:5px; font-size:15px;">React Native</span>
     <span style="font-weight: bold; padding:5px; color: white; font-size:15px; background-color:#0000FF; margin-left:-6px;">v17.0.2</span>
