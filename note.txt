@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <style>
+      .important {
+        color: white;
+        background-color:#5A5A5A;
+        padding:5px;
+        font-size:15px;
+      }
+      
+      .warning {
+        font-style: bold;
+        padding:5px;
+        color: white;
+        font-size:15px;
+        background-color:#0000FF;
+        margin-left:-6px;
+      }
+         .imp {
+        color: white;
+        background-color:#5A5A5A;
+        padding:5px;
+        font-size:15px;
+      }
+      
+      .war {
+        font-style: bold;
+        padding:5px;
+        color: white;
+        font-size:15px;
+        background-color:#7CFC00;
+        margin-left:-6px;
+      }
+      .a{
+      display:flex;
+      }
+       .b{
+      margin-left:4px;
+      }
+          .im {
+        color: white;
+        background-color:#5A5A5A;
+        padding:5px;
+        font-size:15px;
+      }
+      
+      .wa {
+        font-style: bold;
+        padding:5px;
+        color: white;
+        font-size:15px;
+        background-color:#764abc;
+          margin-left:-6px;
+        }
+        .w{
+          font-style: bold;
+        padding:5px;
+        color: white;
+        font-size:15px;
+        background-color:orange;
+         margin-left:-6px;
+        
+        }
+    </style>
+</head>
+<body>
+
+<div class="a">
+ <div>
+    <span class="important">React Native&nbsp;</span>
+    <span class="warning"> v0.71.7</span>
+  </div>
+   <div class="b">
+    <span class="imp">Reac&nbsp;</span>
+    <span class="war"> v18.2.0</span>
+  </div>
+  <div class="b">
+    <span class="im">Redux Toolkit&nbsp;</span>
+    <span class="wa"> v1.9.5</span>
+  </div>
+    <div class="b">
+    <span class="im">React Navigation&nbsp;</span>
+    <span class="w"> v6.0.0</span>
+  </div>
+</div>
+
+</body>
+</html>
+
+
