@@ -76,10 +76,10 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <br/>
 
 <div align="center">
-  <h3>Almazrkazia News App</h3>
+  <h3>AlMazrkazia News App</h3>
   <div>
-    <a href="https://omarsaade.github.io/snap-app/" target='_blank'>View Site</a> • 
-    <a href="https://github.com/omarsaade/Snap-App" target='_blank'>GitHub</a>
+    <a href="https://github.com/omarsaade/almarkazia" target='_blank'>View Site</a> • 
+    <a href="https://github.com/omarsaade/almarkazia" target='_blank'>GitHub</a>
   </div>
 </div>
 
@@ -94,6 +94,4 @@ Snap App focus on creating a photo sharing platform for people who love architec
 
 <br/>
 
-
-
-Almarkazia news app focus on creating a photo sharing platform for people who love architecture. It integrates sharing, navigation, architecture information and tour planning together.
+Almarkazia is a news app designed to keep users informed and connected to the world. It offers curated news from various categories, personalized recommendations, and real-time updates. With its intuitive interface, Almarkazia provides a reliable and immersive news experience, allowing users to stay ahead and share stories effortlessly.
