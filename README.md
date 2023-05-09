@@ -92,7 +92,7 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <br/>
 
   <div>
-    <img style="width: 50%;" src="https://github.com/omarsaade/omarsaade/blob/main/mm.png?raw=true">
+    <img style="width: 60%;" src="https://github.com/omarsaade/omarsaade/blob/main/mm.png?raw=true">
   </div>
 
 <br/>
