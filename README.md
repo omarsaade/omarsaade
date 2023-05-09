@@ -91,7 +91,6 @@ Snap App focus on creating a photo sharing platform for people who love architec
 <br/>
 <br/>
 <p dir="auto"><a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/ddffd61afcdf119c21d4ded12697f25dc218d6edce904f3abe340c55bcae89d9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d5265616374266d6573736167653d7631372e302e3226636f6c6f723d626c7565267374796c653d666c61742d737175617265" alt="React Native" data-canonical-src="https://img.shields.io/static/v1?label=React Native&amp;message=v0.71.7&amp;color=blue&amp;style=flat-square" style="max-width: 100%;"></a>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="20" role="img" aria-label="React: v17.0.2"><title>React: v17.0.2</title><g shape-rendering="crispEdges"><rect width="41" height="20" fill="#555"/><rect x="41" width="53" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="215" y="140" transform="scale(.1)" fill="#fff" textLength="310">React</text><text x="665" y="140" transform="scale(.1)" fill="#fff" textLength="430">v17.0.2</text></g></svg>
 </p>
 
 <br/>
