@@ -1,5 +1,4 @@
 <div id="top"></div>
-
 <!-- NOTE HEAD SECTION -->
 <div align="center">
   <a href="https://omarwork-com.onrender.com/" target='_blank'>
