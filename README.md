@@ -12,8 +12,8 @@
 <br />
 <br />
 
-**Sidenote**:
-## Note on Bio Updates
+
+## Note on README Updates
 
 **Important**: My GitHub README hasn't been updated in quite some time, nearly 2 years, due to heavy time and work commitments. However, I'm planning to revise and update it soon to reflect the latest developments and changes in my journey. Your understanding is greatly appreciated!
 
