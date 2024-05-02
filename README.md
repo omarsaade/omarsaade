@@ -13,8 +13,11 @@
 <br />
 
 **Sidenote**:
-It is worth noting I completely redesign and rebuild my portfolio website using React
-### Built with
+## Note on Bio Updates
+
+**Important**: My GitHub README hasn't been updated in quite some time, nearly 2 years, due to heavy time and work commitments. However, I'm planning to revise and update it soon to reflect the latest developments and changes in my journey. Your understanding is greatly appreciated!
+
+
 
 <!-- NOTE INTRO SECTION -->
 <br />
