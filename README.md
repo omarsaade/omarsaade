@@ -18,7 +18,7 @@
 <!-- NOTE INTRO SECTION -->
 <br />
 <br />
-##Welcome!
+Welcome!
 
 Hi, my name is Omar. I’m a software developer.
 As a software developer, I have a passion for creating innovative solutions using cutting-edge technology.
