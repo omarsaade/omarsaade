@@ -18,14 +18,14 @@
 <!-- NOTE INTRO SECTION -->
 <br />
 <br />
-## Welcome!
+##Welcome!
 
 Hi, my name is Omar. I’m a software developer.
 As a software developer, I have a passion for creating innovative solutions using cutting-edge technology.
 
 I am constantly learning and staying up-to-date with the latest developments in the field, and I bring this expertise and drive to every project I work on. Whether working independently or as part of a team, I consistently strive to deliver the best possible outcome.
 
-In my spare time, I enjoy doing some freelancing work. My goal is to use technology to help clients articulate what’s in their mind to better express themselves.
+
 
 
 <br />
